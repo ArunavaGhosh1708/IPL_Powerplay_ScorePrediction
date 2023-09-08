@@ -1,4 +1,4 @@
-# IPL_Powerplay_ScorePrediction
+# IPL_Powerplay_Score_Prediction
 
 The objective of this project is to utilize Artificial Neural Networks (ANN) implemented within the TensorFlow framework to predict the total score of an Indian Premier League (IPL) cricket match at the conclusion of the first six overs. The input dataset comprises various factors, including venue information, details of the batsmen, and bowlers involved during the initial six overs of the match.
 
